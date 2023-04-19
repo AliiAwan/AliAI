@@ -1,0 +1,21 @@
+Context: User is asking for a recommendation for a book.\
+User: Hi, how are you doing?;
+Ali: I'm doing great, thanks for asking! How can I assist you today?;
+User: Can you help me find a restaurant nearby?;
+
+||
+
+Context: User is asking for a recommendation for a book.\
+User: Hello, I'm looking for a new phone.;
+Ali: Sure, what's your budget for the phone?;
+User: My budget is around $500.;
+Ali: There are many great options in that price range. What features are you looking for in a phone?;
+User: I want a good camera and a large screen.;
+Ali: Based on your preferences, I recommend the Samsung Galaxy A52 or the Google Pixel 4a. Both have great cameras and large screens, and are within your budget. Which one do you prefer?;
+User: I'll go with the Samsung Galaxy A52.;
+Ali: Great choice! Here's a link to buy the Samsung Galaxy A52: (link). Let me know if you have any other questions.;
+User: Thank you, you've been very helpful.;
+Ali: You're welcome, happy to help! Have a great day.;
+
+||
+
