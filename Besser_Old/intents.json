@@ -1,0 +1,208 @@
+{
+    "intents": [
+        {
+            "tag": "begr\u00c3\u00bc\u00c3\u0178ung",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "Hallo",
+                "Guten Tag",
+                "Gr\u00c3\u00bc\u00c3\u0178 Gott",
+                "Servus",
+                "Moin",
+                "Morgen",
+                "Guten Morgen",
+                "Na",
+                "Hiho",
+                "Herzlich Willkommen",
+                "Willkommen zur\u00c3\u00bcck",
+                "Welcome back",
+                "Welcome",
+                "Hola",
+                "Bonjour",
+                "Ciao",
+                "Freut mich euch kennenzulernen"
+            ],
+            "responses": [
+                "Hi",
+                "hi",
+                "Hallo"
+            ]
+        },
+        {
+            "tag": "gesundheit",
+            "patterns": [
+                "Wie gehts?",
+                "Wie gehts dir?"
+            ],
+            "responses": [
+                "Gut, dir?",
+                "Ich hei\u00dfe Ali"
+            ]
+        },
+        {
+            "tag": "verabschiedung",
+            "patterns": [
+                "Bye",
+                "Bis sp\u00c3\u00a4ter",
+                "Auf Wiedersehen",
+                "Tsch\u00c3\u00bcss",
+                "Mach's gut",
+                "Bis bald",
+                "Bis dann",
+                "Bis gleich",
+                "Servus",
+                "Ciao",
+                "Tschau",
+                "Auf Wiederh\u00c3\u00b6ren",
+                "Sch\u00c3\u00b6nen Tag noch",
+                "Sch\u00c3\u00b6nes Wochenende",
+                "Sch\u00c3\u00b6nen Feierabend",
+                "Bis zum n\u00c3\u00a4chsten Mal",
+                "Einen sch\u00c3\u00b6nen Tag noch",
+                "Einen sch\u00c3\u00b6nen Abend noch",
+                "Bis zur n\u00c3\u00a4chsten Gelegenheit",
+                "Bis zum n\u00c3\u00a4chsten Mal"
+            ],
+            "responses": [
+                "Ciao",
+                "Tsch\u00c3\u00bcss"
+            ]
+        },
+        {
+            "tag": "danke",
+            "patterns": [
+                "Danke",
+                "Vielen Dank",
+                "Das ist hilfreich",
+                "Danke f\u00c3\u00bcr die Hilfe",
+                "Ich danke dir",
+                "Ich danke Ihnen",
+                "Herzlichen Dank",
+                "Ich bin sehr dankbar",
+                "Vielen lieben Dank",
+                "Das ist super nett",
+                "Du bist ein Schatz",
+                "Ich bin dankbar",
+                "Ich sch\u00c3\u00a4tze das sehr",
+                "Das war sehr hilfreich",
+                "Ich bin dir/ Ihnen sehr verbunden",
+                "Tausend Dank",
+                "Vielen tausend Dank",
+                "Ich bin dir/ Ihnen unendlich dankbar",
+                "Ich danke dir/ Ihnen von ganzem Herzen",
+                "Das bedeutet mir viel",
+                "Ich bin \u00c3\u00bcberaus dankbar",
+                "Ich bin gl\u00c3\u00bccklich dar\u00c3\u00bcber",
+                "Das ist wirklich nett von dir/ Ihnen",
+                "Ich bin dir/ Ihnen zu tiefstem Dank verpflichtet",
+                "Ich werde das nie vergessen",
+                "Danke f\u00c3\u00bcr alles",
+                "Ich bin dir/ Ihnen zu gro\u00c3\u0178em Dank verpflichtet",
+                "Ich bin in gro\u00c3\u0178er Dankbarkeit",
+                "Danke, dass du/ Sie da bist/sind",
+                "Ich bin dir/ Ihnen aufrichtig dankbar",
+                "Ich bin von Herzen dankbar",
+                "Ich bin dir/ Ihnen von ganzem Herzen dankbar",
+                "Ich danke dir/ Ihnen sehr daf\u00c3\u00bcr",
+                "Das ist gro\u00c3\u0178artig",
+                "Danke, dass du/ Sie mir geholfen hast/haben",
+                "Das ist sehr nett von dir/ Ihnen",
+                "Ich bin dir/ Ihnen sehr dankbar daf\u00c3\u00bcr",
+                "Du bist/ Sie sind ein Engel",
+                "Ich bin froh, dass es dich/ Sie gibt/gibt",
+                "Vielen herzlichen Dank",
+                "Du bist/ Sie sind gro\u00c3\u0178artig",
+                "Das ist wunderbar",
+                "Ich sch\u00c3\u00a4tze das wirklich",
+                "Ich kann dir/ Ihnen nicht genug danken",
+                "Du hast/ Sie haben mir sehr geholfen",
+                "Ich bin dankbar f\u00c3\u00bcr deine/ Ihre Hilfe",
+                "Das ist unglaublich nett von dir/ Ihnen",
+                "Ich bin dir/ Ihnen zu tiefstem Dank verpflichtet",
+                "Ich bin dir/ Ihnen unendlich dankbar daf\u00c3\u00bcr",
+                "Das ist so hilfreich",
+                "Ich bin dir/ Ihnen wirklich sehr dankbar",
+                "Ich danke dir/ Ihnen von Herzen",
+                "Du hast/ Sie haben meinen Tag gerettet",
+                "Ich bin dir/ Ihnen sehr verbunden daf\u00c3\u00bcr",
+                "Ich bin dir/ Ihnen dankbar f\u00c3\u00bcr alles, was du/ Sie getan hast/haben",
+                "Danke f\u00c3\u00bcr deine/ Ihre Zeit",
+                "Das ist sehr gro\u00c3\u0178z\u00c3\u00bcgig von dir/ Ihnen",
+                "Ich bin dir/ Ihnen wirklich dankbar daf\u00c3\u00bcr",
+                "Das bedeutet mir viel, danke",
+                "Ich werde das niemals vergessen",
+                "Das ist wirklich liebensw\u00c3\u00bcrdig von dir/ Ihnen",
+                "Ich bin dir/ Ihnen zutiefst dankbar",
+                "Ich danke dir/ Ihnen von ganzen Herzen daf\u00c3\u00bcr",
+                "Du bist/ Sie sind ein wahrer Freund",
+                "Ich bin dir/ Ihnen zu gro\u00c3\u0178em Dank verpflichtet daf\u00c3\u00bcr",
+                "Ich bin dir/ Ihnen zu tiefstem Dank verpflichtet daf\u00c3\u00bcr, dass du/ Sie mir geholfen hast/haben"
+            ],
+            "responses": [
+                "Bitte",
+                "Kein Problem",
+                "Bitte sehr!"
+            ]
+        },
+        {
+            "tag": "\u00c3\u00bcber",
+            "patterns": [
+                "Wer bist du?",
+                "Was bist du?",
+                "Wer bist du eigentlich?"
+            ],
+            "responses": [
+                "Ich bin Ali"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "Wie hei\u00c3\u0178t du?",
+                "Wie soll ich dich nennen?",
+                "Wie ist dein Name?"
+            ],
+            "responses": [
+                "Du kannst mich Ali nennen.",
+                "Ich bin Ali!"
+            ]
+        },
+        {
+            "tag": "h\u00c3\u00b6flichkeit",
+            "patterns": [
+                "Bitte",
+                "Entschuldigung",
+                "Verzeihung"
+            ],
+            "responses": [
+                "Bitte sch\u00c3\u00b6n!",
+                "Kein Problem!"
+            ]
+        },
+        {
+            "tag": "hilfe",
+            "patterns": [
+                "K\u00c3\u00b6nntest du mir helfen?",
+                "Kannst du mir bitte helfen?",
+                "Was kannst du f\u00c3\u00bcr mich tun?",
+                "Ich brauche Unterst\u00c3\u00bctzung",
+                "Ich ben\u00c3\u00b6tige Hilfe",
+                "K\u00c3\u00b6nntest du mich bitte unterst\u00c3\u00bctzen?"
+            ],
+            "responses": [
+                "Ja",
+                " Ich kann deine Fragen beantworten"
+            ]
+        },
+        {
+            "tag": "pos",
+            "patterns": [
+                "Kannst du mir in POS helfen?"
+            ],
+            "responses": [
+                "Ich hab keine Ahnung aber ich kanns versuchen"
+            ]
+        }
+    ]
+}
